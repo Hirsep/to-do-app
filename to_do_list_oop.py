@@ -1,5 +1,3 @@
-import datetime
-
 import to_do_oop
 
 
